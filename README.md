@@ -42,7 +42,7 @@
 ## 使用
 
 ```bash
-git clone git@github.com:1211387030-ops/coder.git
+git clone git@github.com:Julian-Hao/coder.git
 cd coder
 open index.html          # macOS
 # 或者直接双击 index.html
