@@ -1,0 +1,16 @@
+# macOS 资源分支文件（exFAT / FAT 卷上会自动生成）
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+
+# 临时文件
+*.tmp
+*~
