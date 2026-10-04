@@ -42,11 +42,13 @@
 ## 使用
 
 ```bash
-git clone <本仓库地址>
-cd <仓库目录>
+git clone git@github.com:1211387030-ops/coder.git
+cd coder
 open index.html          # macOS
 # 或者直接双击 index.html
 ```
+
+不想用 git 的话，在仓库页面点 **Code → Download ZIP** 解压即可。
 
 也可以把 `index.html` 单独拷走，它不依赖同目录的任何其他文件。
 
